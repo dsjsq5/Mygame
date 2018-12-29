@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "e4469831-9781-4734-9c5c-61b221f0c11c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Fabric_Frostweave_ImbuedBolt": {
+      "ver": "1.0.3",
+      "uuid": "b4b6f674-08c5-41fa-a567-983d410c3456",
+      "rawTextureUuid": "e4469831-9781-4734-9c5c-61b221f0c11c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

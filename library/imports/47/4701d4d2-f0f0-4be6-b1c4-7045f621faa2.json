@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "INV_Alchemy_Elixir_06",
+    "texture": "4de3ec98-389a-4b69-b118-9e92fdadfbc7",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      62,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

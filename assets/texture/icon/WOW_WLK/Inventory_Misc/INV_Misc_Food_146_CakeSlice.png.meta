@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "8600e3a6-d78a-43bb-959d-603d7d6c4b06",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Misc_Food_146_CakeSlice": {
+      "ver": "1.0.3",
+      "uuid": "00df0089-5297-4ad5-a160-87e4dcd57a64",
+      "rawTextureUuid": "8600e3a6-d78a-43bb-959d-603d7d6c4b06",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

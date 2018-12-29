@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "INV_Misc_Gem_Pearl_14",
+    "texture": "aeb72931-1f05-4e2c-a548-6537ba1a2f66",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      62,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

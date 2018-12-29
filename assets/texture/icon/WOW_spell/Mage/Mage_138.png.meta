@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "b1ba9465-3ec9-4dac-8aff-ddf3ae8c4d33",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Mage_138": {
+      "ver": "1.0.3",
+      "uuid": "036eef76-7713-4a5a-862e-0bb18d75a2e4",
+      "rawTextureUuid": "b1ba9465-3ec9-4dac-8aff-ddf3ae8c4d33",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 40,
+      "height": 40,
+      "rawWidth": 40,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

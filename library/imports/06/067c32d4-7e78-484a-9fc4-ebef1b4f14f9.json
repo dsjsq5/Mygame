@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "INV_Belt_46C",
+    "texture": "8142f8c1-0c41-4dcb-89b6-7916edde1874",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      62,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

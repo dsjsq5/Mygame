@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "INV_Jewelcrafting_DragonsEye01",
+    "texture": "f9acd177-2820-4e40-b6e8-e05758d0dd55",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      62,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

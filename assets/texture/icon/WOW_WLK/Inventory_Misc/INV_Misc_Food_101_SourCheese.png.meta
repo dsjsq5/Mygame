@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "c1f8817c-08d1-466a-9e51-0f747be21185",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Misc_Food_101_SourCheese": {
+      "ver": "1.0.3",
+      "uuid": "05babb06-ee98-4dfc-9721-a43e29d877b9",
+      "rawTextureUuid": "c1f8817c-08d1-466a-9e51-0f747be21185",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

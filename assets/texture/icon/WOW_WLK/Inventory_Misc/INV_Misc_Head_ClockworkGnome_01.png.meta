@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "2a4da1d0-5cf9-4116-a5ca-aea79cda063b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Misc_Head_ClockworkGnome_01": {
+      "ver": "1.0.3",
+      "uuid": "67e41f61-37ee-4c1c-bd69-5301c1a4f502",
+      "rawTextureUuid": "2a4da1d0-5cf9-4116-a5ca-aea79cda063b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

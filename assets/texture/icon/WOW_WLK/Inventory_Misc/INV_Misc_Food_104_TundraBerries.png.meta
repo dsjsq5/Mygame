@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "795445f9-38b6-4504-94aa-837a9019eabe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Misc_Food_104_TundraBerries": {
+      "ver": "1.0.3",
+      "uuid": "dbb8a144-b645-43de-bc2a-83fcb2a5aaf5",
+      "rawTextureUuid": "795445f9-38b6-4504-94aa-837a9019eabe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

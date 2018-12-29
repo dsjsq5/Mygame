@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "cfc131ea-26a6-4002-9b5e-a08bdb7c47ca",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Alchemy_CrystalVial": {
+      "ver": "1.0.3",
+      "uuid": "1eaf283d-5234-4537-850a-03119a95ab0a",
+      "rawTextureUuid": "cfc131ea-26a6-4002-9b5e-a08bdb7c47ca",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

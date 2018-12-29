@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dungeon_1",
+    "texture": "38482961-fa64-41c1-986b-3aa9da7f2b0d",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      93,
+      92
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      94,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

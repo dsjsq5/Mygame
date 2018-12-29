@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "a8dacd7c-d9c7-448f-aafa-a2ce870fa383",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Ability_Warlock_EverlastingAffliction": {
+      "ver": "1.0.3",
+      "uuid": "208a2e0e-2772-4eb1-b04c-e91159c81a10",
+      "rawTextureUuid": "a8dacd7c-d9c7-448f-aafa-a2ce870fa383",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

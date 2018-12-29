@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "26179f9e-366f-4d6e-8da0-7a85e9b8427d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Jewelcrafting_GoldenCrab": {
+      "ver": "1.0.3",
+      "uuid": "9ebcb3c6-1840-4e62-80f0-43fbdf500271",
+      "rawTextureUuid": "26179f9e-366f-4d6e-8da0-7a85e9b8427d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

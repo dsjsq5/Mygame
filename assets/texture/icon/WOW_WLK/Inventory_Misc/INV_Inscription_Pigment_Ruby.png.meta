@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "b1c2799d-9305-430a-bbf3-3571d14f128a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Inscription_Pigment_Ruby": {
+      "ver": "1.0.3",
+      "uuid": "aefe628f-31ae-4c89-a397-cf12b9e9daa3",
+      "rawTextureUuid": "b1c2799d-9305-430a-bbf3-3571d14f128a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

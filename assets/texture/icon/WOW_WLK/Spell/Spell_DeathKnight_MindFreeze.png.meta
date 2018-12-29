@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "eea5c16d-62f3-4df0-81e1-93725ad1477a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Spell_DeathKnight_MindFreeze": {
+      "ver": "1.0.3",
+      "uuid": "3480b152-7173-4179-9529-873905180254",
+      "rawTextureUuid": "eea5c16d-62f3-4df0-81e1-93725ad1477a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

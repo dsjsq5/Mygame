@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "c351840e-453c-420d-a677-d0509f6a52e8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Alchemy_Elixir_Empty": {
+      "ver": "1.0.3",
+      "uuid": "8fc4a746-c44d-428b-9959-65b56c11071f",
+      "rawTextureUuid": "c351840e-453c-420d-a677-d0509f6a52e8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

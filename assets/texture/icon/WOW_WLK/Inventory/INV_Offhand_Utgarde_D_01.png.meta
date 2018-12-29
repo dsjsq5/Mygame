@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "f62a32bd-3ab1-454a-a6b4-f42904ad8776",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Offhand_Utgarde_D_01": {
+      "ver": "1.0.3",
+      "uuid": "16da4efd-9397-4fd5-b0f3-6b08578140b6",
+      "rawTextureUuid": "f62a32bd-3ab1-454a-a6b4-f42904ad8776",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "ebea08ff-c419-42e8-90eb-b98277d6809a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Ability_Mage_StudentOfTheMind": {
+      "ver": "1.0.3",
+      "uuid": "a9d25ef6-4fe2-4d3c-bc81-011d9ebb79c8",
+      "rawTextureUuid": "ebea08ff-c419-42e8-90eb-b98277d6809a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "1f780342-6b26-4763-aff4-027f3f1b9574",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Enchant_AbyssCrystal": {
+      "ver": "1.0.3",
+      "uuid": "3d56f2c3-8320-4b8d-9ed5-6b2d23dfb73c",
+      "rawTextureUuid": "1f780342-6b26-4763-aff4-027f3f1b9574",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

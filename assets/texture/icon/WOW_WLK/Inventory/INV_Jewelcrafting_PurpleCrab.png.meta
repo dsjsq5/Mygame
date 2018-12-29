@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "a936202d-0e61-471a-b7db-8ec1f861a7b1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Jewelcrafting_PurpleCrab": {
+      "ver": "1.0.3",
+      "uuid": "2970dec6-8ee9-47c6-a460-79f8eb5bb7e6",
+      "rawTextureUuid": "a936202d-0e61-471a-b7db-8ec1f861a7b1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

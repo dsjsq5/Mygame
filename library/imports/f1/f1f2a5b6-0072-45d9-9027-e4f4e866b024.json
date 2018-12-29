@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "strategy_1",
+    "texture": "ebaf1de6-8cf7-4909-9cac-b152ee4c6484",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      99,
+      105
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      100,
+      106
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

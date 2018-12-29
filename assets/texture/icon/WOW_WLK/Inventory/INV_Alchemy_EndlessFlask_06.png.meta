@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "27c0f736-9570-4b79-a9cb-66a23068b678",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Alchemy_EndlessFlask_06": {
+      "ver": "1.0.3",
+      "uuid": "b06ba887-8aa4-4ae8-be34-c9244fc119ee",
+      "rawTextureUuid": "27c0f736-9570-4b79-a9cb-66a23068b678",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

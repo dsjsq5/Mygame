@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "b0891ca1-d0f1-4ed5-8b01-c41fd802212c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Spell_Holy_GuardianSpirit": {
+      "ver": "1.0.3",
+      "uuid": "5310e2c5-841f-4f7f-b678-c3166363a66d",
+      "rawTextureUuid": "b0891ca1-d0f1-4ed5-8b01-c41fd802212c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "1910e949-0ace-41e7-8957-2b026d889977",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Priest_008": {
+      "ver": "1.0.3",
+      "uuid": "29ccc4d4-7803-4983-b8d6-0f0c660d6831",
+      "rawTextureUuid": "1910e949-0ace-41e7-8957-2b026d889977",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 40,
+      "height": 40,
+      "rawWidth": 40,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

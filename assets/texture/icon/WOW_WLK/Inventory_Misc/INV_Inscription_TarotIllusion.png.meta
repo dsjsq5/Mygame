@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "2f17ffc0-3a34-48eb-b0f1-750159965245",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Inscription_TarotIllusion": {
+      "ver": "1.0.3",
+      "uuid": "3e13e1f9-6eb6-4675-9935-6f48272b8d8b",
+      "rawTextureUuid": "2f17ffc0-3a34-48eb-b0f1-750159965245",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

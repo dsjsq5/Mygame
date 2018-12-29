@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "aebe8165-6d78-44a9-827a-b22524c11718",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Chest_Cloth_73": {
+      "ver": "1.0.3",
+      "uuid": "afa1519d-cba7-47a4-8ba6-78190d7964e1",
+      "rawTextureUuid": "aebe8165-6d78-44a9-827a-b22524c11718",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

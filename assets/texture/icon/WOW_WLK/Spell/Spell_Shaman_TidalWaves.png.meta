@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "09326198-1b46-4ad0-8bb4-d9c16499349e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Spell_Shaman_TidalWaves": {
+      "ver": "1.0.3",
+      "uuid": "d1f38bb1-7d48-46df-9f46-13a9912561c3",
+      "rawTextureUuid": "09326198-1b46-4ad0-8bb4-d9c16499349e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

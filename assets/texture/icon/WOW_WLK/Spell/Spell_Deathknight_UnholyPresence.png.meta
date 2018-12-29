@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "c55d6b2d-d988-47ac-b66b-f84e2d960d9a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Spell_Deathknight_UnholyPresence": {
+      "ver": "1.0.3",
+      "uuid": "5cf44c59-ce39-4549-a9f8-7557b9d5ac5b",
+      "rawTextureUuid": "c55d6b2d-d988-47ac-b66b-f84e2d960d9a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "29f84af9-647b-467c-927b-39f73eddf494",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Ability_Mage_WintersGrasp": {
+      "ver": "1.0.3",
+      "uuid": "8f76614c-427e-45f7-bfa4-ff461d0cd459",
+      "rawTextureUuid": "29f84af9-647b-467c-927b-39f73eddf494",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

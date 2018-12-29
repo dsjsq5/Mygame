@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "7e01d02a-ba1e-487a-92f3-c15afbb565dc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_ThrowingKnife_07": {
+      "ver": "1.0.3",
+      "uuid": "b080eb39-5a8e-40fc-8962-7b1010d602e6",
+      "rawTextureUuid": "7e01d02a-ba1e-487a-92f3-c15afbb565dc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

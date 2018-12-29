@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "6e56dfb7-3e96-42d4-9a4a-c5ea63e26f45",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Misc_Herb_GoldClover": {
+      "ver": "1.0.3",
+      "uuid": "91002927-1119-4089-a22e-55d5080e04fc",
+      "rawTextureUuid": "6e56dfb7-3e96-42d4-9a4a-c5ea63e26f45",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

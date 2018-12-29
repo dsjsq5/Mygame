@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "0727b7e6-22ae-4558-aa48-734676f9f87b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Misc_SawBlade_01": {
+      "ver": "1.0.3",
+      "uuid": "db448b95-8040-4475-ab3e-a85686178c2d",
+      "rawTextureUuid": "0727b7e6-22ae-4558-aa48-734676f9f87b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

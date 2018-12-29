@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "e37fb4dd-7cb5-4338-b90d-b87269d1bc19",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Ability_Druid_Starfall": {
+      "ver": "1.0.3",
+      "uuid": "c56958bc-9600-403d-a425-55758f9ce245",
+      "rawTextureUuid": "e37fb4dd-7cb5-4338-b90d-b87269d1bc19",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

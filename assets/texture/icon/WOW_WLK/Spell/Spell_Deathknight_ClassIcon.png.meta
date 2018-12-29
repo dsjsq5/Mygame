@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "4afc2920-5d3c-47d4-9301-bca7c2d99e3d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Spell_Deathknight_ClassIcon": {
+      "ver": "1.0.3",
+      "uuid": "e26cf353-835e-4a38-93e4-70b1a2c88340",
+      "rawTextureUuid": "4afc2920-5d3c-47d4-9301-bca7c2d99e3d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

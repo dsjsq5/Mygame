@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "6e708416-2171-447c-a9f0-967b2d6bc847",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Ability_Hunter_Pet_Silithid": {
+      "ver": "1.0.3",
+      "uuid": "908094f6-fb45-495e-b1b1-8574db28799b",
+      "rawTextureUuid": "6e708416-2171-447c-a9f0-967b2d6bc847",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

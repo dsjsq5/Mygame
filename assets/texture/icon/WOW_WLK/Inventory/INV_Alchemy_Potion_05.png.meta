@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "2e8a6cd5-01cf-4886-8a36-0ae6ce19ae20",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Alchemy_Potion_05": {
+      "ver": "1.0.3",
+      "uuid": "e6dc70e4-a677-4fd8-928b-14a1f04431c4",
+      "rawTextureUuid": "2e8a6cd5-01cf-4886-8a36-0ae6ce19ae20",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

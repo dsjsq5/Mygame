@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "96b957e9-ba82-4d06-b80e-f315ba2e6956",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Misc_Food_124_Skewer": {
+      "ver": "1.0.3",
+      "uuid": "cf25f39f-6815-4025-86cb-249d830e7db5",
+      "rawTextureUuid": "96b957e9-ba82-4d06-b80e-f315ba2e6956",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

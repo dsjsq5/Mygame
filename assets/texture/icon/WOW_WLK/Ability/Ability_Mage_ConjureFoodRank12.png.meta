@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "730df940-7251-4cda-977f-8b6322ba196b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Ability_Mage_ConjureFoodRank12": {
+      "ver": "1.0.3",
+      "uuid": "24cb1662-dd9d-472e-af5a-5b437e4363ea",
+      "rawTextureUuid": "730df940-7251-4cda-977f-8b6322ba196b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

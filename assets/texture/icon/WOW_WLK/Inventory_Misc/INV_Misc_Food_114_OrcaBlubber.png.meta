@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "748b0048-acf1-4d46-b7a2-084ff96c98ee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Misc_Food_114_OrcaBlubber": {
+      "ver": "1.0.3",
+      "uuid": "0b18f18b-80fa-43a2-8cda-6cbe759581fe",
+      "rawTextureUuid": "748b0048-acf1-4d46-b7a2-084ff96c98ee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "588fef08-0dff-428d-a8bc-e5005db9f50a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Inscription_InkBlack04": {
+      "ver": "1.0.3",
+      "uuid": "ce3df721-f15a-45d4-be20-162a6b8e5fbb",
+      "rawTextureUuid": "588fef08-0dff-428d-a8bc-e5005db9f50a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

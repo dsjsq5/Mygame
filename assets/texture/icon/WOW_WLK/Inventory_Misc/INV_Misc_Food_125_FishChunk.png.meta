@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "b3b5dc63-0c5b-44d8-ab27-5a262a78f31b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Misc_Food_125_FishChunk": {
+      "ver": "1.0.3",
+      "uuid": "d9dd66b8-aeef-41a3-b87f-c9e2bb36235b",
+      "rawTextureUuid": "b3b5dc63-0c5b-44d8-ab27-5a262a78f31b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

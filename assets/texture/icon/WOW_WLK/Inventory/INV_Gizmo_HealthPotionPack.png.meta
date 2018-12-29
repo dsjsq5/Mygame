@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "085e5b41-e1c3-472e-940b-036f93f366bc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Gizmo_HealthPotionPack": {
+      "ver": "1.0.3",
+      "uuid": "fe59010c-b0d8-4a9f-a233-f0ce31bcbe3d",
+      "rawTextureUuid": "085e5b41-e1c3-472e-940b-036f93f366bc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

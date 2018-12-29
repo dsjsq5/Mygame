@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "f9acd177-2820-4e40-b6e8-e05758d0dd55",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Jewelcrafting_DragonsEye01": {
+      "ver": "1.0.3",
+      "uuid": "4d4734e3-513f-412e-aa0b-87e7793a6919",
+      "rawTextureUuid": "f9acd177-2820-4e40-b6e8-e05758d0dd55",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

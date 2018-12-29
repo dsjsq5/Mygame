@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "2799db29-04f8-4200-89d6-8c49468c4034",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Pants_Mail_27": {
+      "ver": "1.0.3",
+      "uuid": "0a598c56-1413-4730-b3e4-4c4af9ac43a8",
+      "rawTextureUuid": "2799db29-04f8-4200-89d6-8c49468c4034",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

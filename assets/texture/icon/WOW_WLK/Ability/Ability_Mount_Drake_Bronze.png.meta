@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "7589be62-256b-4d3b-9e14-66b01058a6e0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Ability_Mount_Drake_Bronze": {
+      "ver": "1.0.3",
+      "uuid": "dfea06bd-b30e-4031-8496-4d2da806df40",
+      "rawTextureUuid": "7589be62-256b-4d3b-9e14-66b01058a6e0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

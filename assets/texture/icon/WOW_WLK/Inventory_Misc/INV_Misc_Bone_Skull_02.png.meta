@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "ae7b02f9-af02-43fb-aa11-0743d556a8ef",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Misc_Bone_Skull_02": {
+      "ver": "1.0.3",
+      "uuid": "8bfa274b-92dd-4992-9140-958dfab67f64",
+      "rawTextureUuid": "ae7b02f9-af02-43fb-aa11-0743d556a8ef",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

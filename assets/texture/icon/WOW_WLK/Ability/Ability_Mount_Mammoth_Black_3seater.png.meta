@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "b556625e-6e4e-435e-8cb4-652a30ef493e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Ability_Mount_Mammoth_Black_3seater": {
+      "ver": "1.0.3",
+      "uuid": "966f1004-bfaf-4516-80f8-0122239f1b29",
+      "rawTextureUuid": "b556625e-6e4e-435e-8cb4-652a30ef493e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

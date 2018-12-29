@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "b03e9d94-3ace-4e83-a26e-a1ae5498e2bf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Spell_Shaman_FeralSpirit(v2)": {
+      "ver": "1.0.3",
+      "uuid": "c1c37a09-58a8-4ad9-89f5-c77cf3539937",
+      "rawTextureUuid": "b03e9d94-3ace-4e83-a26e-a1ae5498e2bf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

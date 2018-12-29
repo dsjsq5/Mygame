@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "359847ea-5a15-49dd-858b-669c1d027000",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Jewelcrafting_Gem_02": {
+      "ver": "1.0.3",
+      "uuid": "b9758b47-3aa7-406e-a469-212f7201bb2c",
+      "rawTextureUuid": "359847ea-5a15-49dd-858b-669c1d027000",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "09e8876e-39a8-475a-ba10-88a98561265a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "INV_Misc_EngGizmos_swissArmy": {
+      "ver": "1.0.3",
+      "uuid": "c9032fa5-40f7-438d-9827-e9c241f2a140",
+      "rawTextureUuid": "09e8876e-39a8-475a-ba10-88a98561265a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
