@@ -1,11 +1,9 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.0.0",
   "uuid": "db6f492c-fb22-4d04-8a61-1b9082c2e26f",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
-  "premultiplyAlpha": false,
-  "platformSettings": {},
   "subMetas": {
     "Ability_Hunter_SniperTraining": {
       "ver": "1.0.3",

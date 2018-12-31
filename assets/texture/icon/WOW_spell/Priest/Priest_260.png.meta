@@ -1,11 +1,9 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.0.0",
   "uuid": "c0a1a6d6-d2aa-4f69-be04-70006396319d",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
-  "premultiplyAlpha": false,
-  "platformSettings": {},
   "subMetas": {
     "Priest_260": {
       "ver": "1.0.3",

@@ -1,11 +1,9 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.0.0",
   "uuid": "c81f351c-1522-43a7-875d-ecaee9e7baf3",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
-  "premultiplyAlpha": false,
-  "platformSettings": {},
   "subMetas": {
     "Ability_Warlock_EmpoweredImp": {
       "ver": "1.0.3",

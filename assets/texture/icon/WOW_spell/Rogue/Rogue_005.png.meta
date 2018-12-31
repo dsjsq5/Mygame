@@ -1,11 +1,9 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.0.0",
   "uuid": "038c701f-b203-4a65-ab9d-d6cb971569d5",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
-  "premultiplyAlpha": false,
-  "platformSettings": {},
   "subMetas": {
     "Rogue_005": {
       "ver": "1.0.3",

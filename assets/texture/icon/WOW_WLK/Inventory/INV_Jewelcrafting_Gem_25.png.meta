@@ -1,11 +1,9 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.0.0",
   "uuid": "371cdea3-4267-45e0-9ad9-75ec66a25338",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
-  "premultiplyAlpha": false,
-  "platformSettings": {},
   "subMetas": {
     "INV_Jewelcrafting_Gem_25": {
       "ver": "1.0.3",

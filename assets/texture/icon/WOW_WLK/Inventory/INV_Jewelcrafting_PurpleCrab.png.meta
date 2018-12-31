@@ -1,11 +1,9 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.0.0",
   "uuid": "a936202d-0e61-471a-b7db-8ec1f861a7b1",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
-  "premultiplyAlpha": false,
-  "platformSettings": {},
   "subMetas": {
     "INV_Jewelcrafting_PurpleCrab": {
       "ver": "1.0.3",

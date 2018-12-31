@@ -1,11 +1,9 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.0.0",
   "uuid": "fb575810-6d34-49c3-9687-9d52154a98a3",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
-  "premultiplyAlpha": false,
-  "platformSettings": {},
   "subMetas": {
     "INV_Jewelcrafting_PurpleBoar": {
       "ver": "1.0.3",

@@ -1,11 +1,9 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.0.0",
   "uuid": "370cf331-1ad1-4577-9ecd-6022aa95da26",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
-  "premultiplyAlpha": false,
-  "platformSettings": {},
   "subMetas": {
     "Ability_Paladin_GaurdedbytheLight": {
       "ver": "1.0.3",

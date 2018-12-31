@@ -1,11 +1,9 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.0.0",
   "uuid": "f4ae2f0d-dcef-43bc-9620-2b6e90058ce0",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
-  "premultiplyAlpha": false,
-  "platformSettings": {},
   "subMetas": {
     "Spell_Arcane_TeleportDalaran": {
       "ver": "1.0.3",

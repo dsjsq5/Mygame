@@ -1,11 +1,9 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.0.0",
   "uuid": "73a5347d-d45e-4e47-83ae-ac7dfdcc398c",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
-  "premultiplyAlpha": false,
-  "platformSettings": {},
   "subMetas": {
     "Spell_DeathKnight_EmpowerRuneBlade": {
       "ver": "1.0.3",

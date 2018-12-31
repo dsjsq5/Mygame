@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-paperdollbackground-r2",
+    "texture": "92bc0dd5-2421-4352-a46d-7e1fb5690c0d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      25,
+      208
+    ],
+    "offset": [
+      -3.5,
+      24
+    ],
+    "originalSize": [
+      32,
+      256
+    ]
+  }
+}

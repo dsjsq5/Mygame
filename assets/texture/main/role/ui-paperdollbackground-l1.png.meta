@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "7e062fd6-41c2-4750-bcf7-d4aa33a20301",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ui-paperdollbackground-l1": {
+      "ver": "1.0.3",
+      "uuid": "23e6bd3d-2aa5-454d-9171-fe235c35dfad",
+      "rawTextureUuid": "7e062fd6-41c2-4750-bcf7-d4aa33a20301",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 256,
+      "height": 255,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

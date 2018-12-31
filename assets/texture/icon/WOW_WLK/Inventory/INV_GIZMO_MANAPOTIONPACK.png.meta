@@ -1,11 +1,9 @@
 {
-  "ver": "2.3.0",
+  "ver": "2.0.0",
   "uuid": "596ee9f3-d3ad-4502-b2ca-bcc88ccd86b0",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
-  "premultiplyAlpha": false,
-  "platformSettings": {},
   "subMetas": {
     "INV_GIZMO_MANAPOTIONPACK": {
       "ver": "1.0.3",

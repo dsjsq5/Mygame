@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-paperdoll-slotbackground",
+    "texture": "ce1bd0c7-d4c3-42b7-af67-32fcded81d50",
+    "atlas": "",
+    "rect": [
+      137,
+      64,
+      269,
+      371
+    ],
+    "offset": [
+      15.5,
+      6.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ]
+  }
+}

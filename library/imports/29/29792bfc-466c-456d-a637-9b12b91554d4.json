@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-character-charactertab-r2",
+    "texture": "0b60a3e5-bafd-4b15-b208-6adc731f0028",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      96,
+      208
+    ],
+    "offset": [
+      -16,
+      24
+    ],
+    "originalSize": [
+      128,
+      256
+    ]
+  }
+}
