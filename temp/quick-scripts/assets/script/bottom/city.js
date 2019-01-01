@@ -37,6 +37,7 @@ cc.Class({
     onclick: function onclick() {
         this.node.getComponent(cc.Sprite).spriteFrame = this.city_1;
         Global.change(1);
+        Global.main_city.node.active = true;
         // var self = this;
         // cc.loader.loadRes("texture/bottom/city_1", cc.SpriteFrame, function (err, spriteFrame) {
         //     self.node.getComponent(cc.Sprite).spriteFrame = spriteFrame;

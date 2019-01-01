@@ -8665,8 +8665,8 @@
     "relativePath": "sence"
   },
   "fc6add9f-bc51-475d-a3a0-a9e87104f69b": {
-    "asset": 1546236762472,
-    "meta": 1546236762515,
+    "asset": 1546272439411,
+    "meta": 1546272439445,
     "relativePath": "sence\\main.fire"
   },
   "e55d9f76-bade-4860-8eee-eb81c4a5e675": {
@@ -8789,11 +8789,6 @@
     "meta": 1546236663785,
     "relativePath": "script\\bottom\\battle.js"
   },
-  "608a7f65-ec7f-4a01-985f-f93eecbe9978": {
-    "asset": 1546236581430,
-    "meta": 1546236663814,
-    "relativePath": "script\\bottom\\city.js"
-  },
   "e2c7f5aa-c8cf-472b-8676-6b33ca31f455": {
     "asset": 1546236581432,
     "meta": 1546236663855,
@@ -8813,11 +8808,6 @@
     "asset": 1546236581436,
     "meta": 1546236663950,
     "relativePath": "script\\bottom\\strategy.js"
-  },
-  "aefd0f08-4392-47f2-9446-31b3e1017a0a": {
-    "asset": 1546236581426,
-    "meta": 1546236663984,
-    "relativePath": "script\\Global.js"
   },
   "34235ac5-6865-46d6-81fa-e61a230d92ea": {
     "asset": 1546236785880,
@@ -9008,5 +8998,40 @@
     "asset": 1546236797926,
     "meta": 1546236798420,
     "relativePath": "texture\\main\\role\\ui-backpack-emptyslot.png"
+  },
+  "fcf53913-d475-43cf-a7c4-b3d124559e52": {
+    "asset": 1546266056304,
+    "meta": 1546266056308,
+    "relativePath": "font"
+  },
+  "fcdc640e-6cff-4cf7-9590-99c59e8d3d79": {
+    "asset": 1546266490524,
+    "meta": 1546266490575,
+    "relativePath": "font\\kaiti.ttf"
+  },
+  "8eae56ce-61d0-4fbf-9b2c-1ac0b1337c33": {
+    "asset": 1546269673134,
+    "meta": 1546269673136,
+    "relativePath": "script\\city"
+  },
+  "aefd0f08-4392-47f2-9446-31b3e1017a0a": {
+    "asset": 1546271051012,
+    "meta": 1546271054387,
+    "relativePath": "script\\Global.js"
+  },
+  "4bb9974e-a012-43f9-a152-3f6c9bf324dc": {
+    "asset": 1546271701584,
+    "meta": 1546271965347,
+    "relativePath": "anim\\roleAnim.anim"
+  },
+  "608a7f65-ec7f-4a01-985f-f93eecbe9978": {
+    "asset": 1546271538201,
+    "meta": 1546271630440,
+    "relativePath": "script\\bottom\\city.js"
+  },
+  "cefba48b-71ab-48d6-8e9c-156ced51c30e": {
+    "asset": 1546271988289,
+    "meta": 1546271998957,
+    "relativePath": "script\\city\\main_city.js"
   }
 }

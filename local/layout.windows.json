@@ -50,8 +50,8 @@
               {
                 "active": 0,
                 "children": [
-                  "console",
-                  "timeline"
+                  "timeline",
+                  "console"
                 ],
                 "height": 266,
                 "type": "panel",
@@ -76,11 +76,11 @@
       },
       "panels": [
         "hierarchy",
-        "console",
         "timeline",
         "inspector",
         "assets",
-        "scene"
+        "scene",
+        "console"
       ]
     }
   },
@@ -96,6 +96,12 @@
       "y": 85,
       "width": 600,
       "height": 564
+    },
+    "console": {
+      "x": 564,
+      "y": 469,
+      "width": 420,
+      "height": 338
     }
   }
 }

@@ -5,6 +5,8 @@ window.Global={
     friend:null,
     shop:null,
     strategy:null,
+    main_city:null,
+    bottom_flag:1,
     change:function(params) {
         if(params != 1){
             this.city.node.getComponent(cc.Sprite).spriteFrame=this.city.city_3;
@@ -24,5 +26,13 @@ window.Global={
         if(params != 6){
             this.strategy.node.getComponent(cc.Sprite).spriteFrame=this.strategy.strategy_3;
         }
+        switch (this.bottom_flag) {
+            case 1:
+                this.main_city.node.active=false;
+                break;
+            default:
+                break;
+        }
+        this.bottom_flag=params;
     }
-}
+};
