@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-gearmanager-itembutton-highlight",
+    "texture": "32edf47a-a78c-446e-a03e-f595a984ddb0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      50,
+      50
+    ],
+    "offset": [
+      -7,
+      7
+    ],
+    "originalSize": [
+      64,
+      64
+    ]
+  }
+}

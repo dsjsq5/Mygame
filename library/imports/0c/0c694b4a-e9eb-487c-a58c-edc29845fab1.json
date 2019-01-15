@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-character-classskillstab-r1",
+    "texture": "378adc12-0385-4770-92e1-30e8a3992583",
+    "atlas": "",
+    "rect": [
+      0,
+      13,
+      96,
+      243
+    ],
+    "offset": [
+      -16,
+      -6.5
+    ],
+    "originalSize": [
+      128,
+      256
+    ]
+  }
+}

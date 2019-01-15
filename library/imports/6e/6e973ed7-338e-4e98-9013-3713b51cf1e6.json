@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-character-general-topright",
+    "texture": "e2cf1410-9ddb-4a6e-a8be-614dd4bb33a6",
+    "atlas": "",
+    "rect": [
+      0,
+      12,
+      94,
+      244
+    ],
+    "offset": [
+      -17,
+      -6
+    ],
+    "originalSize": [
+      128,
+      256
+    ]
+  }
+}

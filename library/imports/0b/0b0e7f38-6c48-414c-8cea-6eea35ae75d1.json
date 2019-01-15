@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hunter",
+    "texture": "2b7848e2-4ef3-4ba3-bcca-88f9709ca71a",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      58,
+      58
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      62,
+      61
+    ]
+  }
+}

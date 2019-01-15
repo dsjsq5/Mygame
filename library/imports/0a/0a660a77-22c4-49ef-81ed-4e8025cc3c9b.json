@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "warroir",
+    "texture": "e568c8c9-7caa-4896-93c0-79e1da803864",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      58,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      62
+    ]
+  }
+}

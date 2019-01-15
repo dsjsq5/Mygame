@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-character-general-bottomleft",
+    "texture": "ce749fd1-ab71-4b50-bcea-3c2ef154fdbc",
+    "atlas": "",
+    "rect": [
+      9,
+      0,
+      247,
+      183
+    ],
+    "offset": [
+      4.5,
+      36.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

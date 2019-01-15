@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "32edf47a-a78c-446e-a03e-f595a984ddb0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ui-gearmanager-itembutton-highlight": {
+      "ver": "1.0.3",
+      "uuid": "1c3aac6c-7e6f-4a24-80b1-c77ecbde8d81",
+      "rawTextureUuid": "32edf47a-a78c-446e-a03e-f595a984ddb0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7,
+      "offsetY": 7,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 50,
+      "height": 50,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-character-inactivetab",
+    "texture": "abd5a875-74fa-4760-a6d3-8cb86bbc3d13",
+    "atlas": "",
+    "rect": [
+      6,
+      2,
+      112,
+      27
+    ],
+    "offset": [
+      -2,
+      0.5
+    ],
+    "originalSize": [
+      128,
+      32
+    ]
+  }
+}

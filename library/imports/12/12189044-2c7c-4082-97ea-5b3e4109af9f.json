@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paladin",
+    "texture": "d47b74ef-f403-41f7-ba08-2b5d3ba76b99",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      58,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      62
+    ]
+  }
+}

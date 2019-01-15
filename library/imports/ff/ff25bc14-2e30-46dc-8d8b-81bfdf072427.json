@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "spell",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "stalker": {
+      "1": {
+        "name": "sinister_strike",
+        "type": "1",
+        "damage_type": "attack",
+        "chinese": "影袭",
+        "describe": "对目标造成110%+#(damage)物理攻击的伤害，冷却时间1秒",
+        "levelup_cost": "1",
+        "base_attack": "110",
+        "base_damage": "40",
+        "cool_down": "1000",
+        "coma_time": "0",
+        "slow_time": "0"
+      },
+      "2": {
+        "name": "eviscerate",
+        "type": "1",
+        "damage_type": "attack",
+        "chinese": "剔骨",
+        "describe": "对目标造成150%+#(damage)物理攻击的伤害，冷却时间3秒",
+        "levelup_cost": "1",
+        "base_attack": "150",
+        "base_damage": "100",
+        "cool_down": "3000",
+        "coma_time": "0",
+        "slow_time": "0"
+      },
+      "3": {
+        "name": "rupture",
+        "type": "2",
+        "damage_type": "attack",
+        "chinese": "割裂",
+        "describe": "对目标每秒造成50%+#(damage)物理攻击的伤害，持续5秒，冷却8秒",
+        "levelup_cost": "1",
+        "base_attack": "50",
+        "base_damage": "40",
+        "cool_down": "8000",
+        "coma_time": "0",
+        "slow_time": "0"
+      },
+      "4": {
+        "name": "kidneyshot",
+        "type": "3",
+        "damage_type": "attack",
+        "chinese": "肾击",
+        "describe": "对目标造成130%+#(damage)物理攻击的伤害，目标昏迷2秒，冷却8秒",
+        "levelup_cost": "1",
+        "base_attack": "130",
+        "base_damage": "40",
+        "cool_down": "8000",
+        "coma_time": "2000",
+        "slow_time": "0"
+      }
+    }
+  }
+}

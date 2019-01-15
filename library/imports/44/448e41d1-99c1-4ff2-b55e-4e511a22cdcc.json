@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "deathknight",
+    "texture": "dd964c67-71c9-4ffe-b3a1-5c398c534931",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      58,
+      58
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      62,
+      62
+    ]
+  }
+}

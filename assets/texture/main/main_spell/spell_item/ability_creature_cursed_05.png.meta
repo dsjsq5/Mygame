@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "7599e031-62f2-4d79-8cc0-a05427c6ea70",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ability_creature_cursed_05": {
+      "ver": "1.0.3",
+      "uuid": "c43bd73d-5301-494e-bb53-6bbd0cb277c1",
+      "rawTextureUuid": "7599e031-62f2-4d79-8cc0-a05427c6ea70",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

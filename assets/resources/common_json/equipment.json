@@ -1,0 +1,109 @@
+﻿{
+   "weapon" : {
+      "1001" : {
+         "name" : "warglaiveofazzinoth_left",
+         "chinese" : "埃辛诺斯战刃（左）",
+         "<add name>" : ""
+      },
+      "1002" : {
+         "name" : "warglaiveofazzinoth_right",
+         "chinese" : "埃辛诺斯战刃（右）"
+      }
+   },
+   "head" : {
+      "2001" : {
+         "name" : "assassin_helmet",
+         "chinese" : "刺杀者头盔"
+      }
+   },
+   "neck" : {
+      "3001" : {
+         "name" : "assassin_necklace",
+         "chinese" : "刺杀者项链"
+      }
+   },
+   "shoulder" : {
+      "4001" : {
+         "name" : "assassin_shoulder ",
+         "chinese" : "刺杀者护肩"
+      }
+   },
+   "cloak" : {
+      "5001" : {
+         "name" : "assassin_cloak",
+         "chinese" : "刺杀者披风"
+      }
+   },
+   "chest" : {
+      "6001" : {
+         "name" : "assassin_breastplate",
+         "chinese" : "刺杀者胸甲"
+      }
+   },
+   "shirt" : {
+      "7001" : {
+         "name" : "assassin_shirt",
+         "chinese" : "刺杀者衬衣"
+      }
+   },
+   "tabard" : {
+      "8001" : {
+         "name" : "assassin_tabard",
+         "chinese" : "刺杀者战袍"
+      }
+   },
+   "hand" : {
+      "9001" : {
+         "name" : "assassin_armguard",
+         "chinese" : "刺杀者护手"
+      }
+   },
+   "wrist" : {
+      "10001" : {
+         "name" : "assassin_bracer",
+         "chinese" : "刺杀者护腕"
+      }
+   },
+   "waist" : {
+      "11001" : {
+         "name" : "assassin_waistband",
+         "chinese" : "刺杀者腰带"
+      }
+   },
+   "leg" : {
+      "12001" : {
+         "name" : "assassin_gaiter",
+         "chinese" : "刺杀者护腿"
+      }
+   },
+   "feet" : {
+      "13001" : {
+         "name" : "assassin_shoe",
+         "chinese" : "刺杀者鞋子"
+      }
+   },
+   "finger" : {
+      "14001" : {
+         "name" : "assassin_finger",
+         "chinese" : "刺杀者戒指"
+      }
+   },
+   "trinket" : {
+      "15001" : {
+         "name" : "assassin_trinket",
+         "chinese" : "刺杀者饰品"
+      }
+   },
+   "secondaryhand" : {
+      "16001" : {
+         "name" : "assassin_shield",
+         "chinese" : "刺杀者护盾"
+      }
+   },
+   "ranged" : {
+      "17001" : {
+         "name" : "assassin_bow",
+         "chinese" : "刺杀者的长弓"
+      }
+   }
+}

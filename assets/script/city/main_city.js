@@ -41,7 +41,12 @@ cc.Class({
 
     // update (dt) {},
     onEnable (){
-        var roleNode = cc.find("Canvas/main_city/main_bg/main_role");
+        var roleNode = cc.find("main_bg/main_role",this.node);
+        roleNode.active = true;
+        var spellNode = cc.find("main_bg/main_spell",this.node);
+        spellNode.active = false;
+        var prestigeNode = cc.find("main_bg/main_prestige",this.node);
+        prestigeNode.active = false;
         var anim = roleNode.getComponent(cc.Animation);
         anim.play();
     }

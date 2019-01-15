@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stalker",
+    "texture": "58b05852-0676-4117-8075-59535ad01523",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      58,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      62
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loading-barglass",
+    "texture": "65c5c1df-db13-4c45-ad3f-65e559f62ed7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      512,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      64
+    ]
+  }
+}

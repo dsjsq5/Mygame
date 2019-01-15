@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui-quickslot",
+    "texture": "4adbebd3-e441-49f8-9853-a5abc6c6ed8c",
+    "atlas": "",
+    "rect": [
+      12,
+      12,
+      39,
+      39
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ]
+  }
+}

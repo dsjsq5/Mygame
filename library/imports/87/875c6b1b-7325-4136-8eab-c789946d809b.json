@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shaman",
+    "texture": "8ed91e6e-f021-458f-91a0-618af1024606",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      58,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      62
+    ]
+  }
+}

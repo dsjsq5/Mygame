@@ -40,6 +40,32 @@ window.Global = {
                 break;
         }
         this.bottom_flag = params;
+    },
+    changeMainCity: function changeMainCity(parmas) {
+        // cc.log("parmas123:"+parmas)
+        switch (parmas) {
+            case "1":
+                var roleNode = cc.find("main_bg/main_role", this.main_city.node);
+                roleNode.active = true;
+                var roleanim1 = roleNode.getComponent(cc.Animation);
+                roleanim1.play("roleAnim1");
+                break;
+            case "2":
+                var spellNode = cc.find("main_bg/main_spell", this.main_city.node);
+                spellNode.active = true;
+                var spellAnim1 = spellNode.getComponent(cc.Animation);
+                spellAnim1.play("spellAnim1");
+                break;
+            case "3":
+                var prestigeNode = cc.find("main_bg/main_prestige", this.main_city.node);
+                prestigeNode.active = true;
+                var prestigeAnim1 = prestigeNode.getComponent(cc.Animation);
+                prestigeAnim1.play("prestigeAnim1");
+                break;
+            default:
+                cc.log("default123:");
+                break;
+        }
     }
 };
 
